@@ -1,12 +1,12 @@
 # 安装&升级
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hz810/QQ/main/install.sh)
 ```
 
-# 安装&升级
+# 备用&安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hz810/QQ/main/install.sh)
 ```
 
